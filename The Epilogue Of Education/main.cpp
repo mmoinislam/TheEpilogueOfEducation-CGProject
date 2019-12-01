@@ -2,6 +2,7 @@
 #include <unistd.h>
 #include <time.h>
 #include <math.h>
+#include <window.h>
 
 // Apple Specific Compatibility Issues
 #ifdef __APPLE__
